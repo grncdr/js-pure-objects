@@ -1,0 +1,19 @@
+{
+  "name": "pure-objects",
+  "version": "0.0.0",
+  "description": "Object-oriented code without side-effects",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": "",
+  "author": "Stephen Sugden <me@stephensugden.com>",
+  "license": "BSD",
+  "dependencies": {
+    "traverse": "~0.6.5",
+    "funstance": "0.0.2"
+  },
+  "devDependencies": {
+    "tape": "~2.3.2"
+  }
+}
